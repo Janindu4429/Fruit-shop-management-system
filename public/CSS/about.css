@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+h2, h4 {
+  color: #198754;
+}
+ul {
+  padding-left: 1.2rem;
+}
+section {
+            margin: 20px;
+            padding: 15px;
+            background-color:#198754;
+			color:white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }

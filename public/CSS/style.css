@@ -1,0 +1,52 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1, h2 {
+  color: #ffffff;
+}
+
+.card-title {
+  color: #198754;
+  font-weight: 600;
+}
+#sec1 {
+            margin: 20px;
+            padding: 15px;
+            background-color:#198754;
+			color:white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.carousel-item img {
+  height: 400px; /* Adjust as needed */
+  object-fit: cover; /* Ensures images cover the area without distortion */
+}
+
+.featured-badge {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: orange;
+      color: white;
+      font-weight: bold;
+      font-size: 0.8rem;
+      padding: 3px 6px;
+      border-radius: 3px;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      background-color: black;
+      border-radius: 50%;
+}
+#sec2 {
+            margin: 20px;
+            padding: 15px;
+            background-color:#828070;
+			color:white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
